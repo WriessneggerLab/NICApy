@@ -1,0 +1,7 @@
+pyxdf==1.16.3
+scipy>=1.6.2
+heartpy==1.2.7
+numpy>=1.19.1
+matplotlib==3.2.2
+XlsxWriter==1.4.4
+PyQt5==5.15.4
